@@ -1,1 +1,19 @@
+\documentclass[12pt]{article}
+\title{Conscious Relativity Theory (CRT)}
+\author{Your Name}
+\date{\today}
 
+\begin{document}
+\maketitle
+
+\section{Introduction}
+Placeholder text. Content to be added later.
+
+\section{Main Concepts}
+Placeholder text.
+
+\section{References}
+\bibliographystyle{plain}
+\bibliography{references}
+
+\end{document}
